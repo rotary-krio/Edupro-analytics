@@ -39,12 +39,14 @@ Data Visualization: Plotly Express
 ### 👑 Power User Identification: Tracks enrollment concentration to reveal how the top 10% of learners drive platform engagement.
 
 ### 🎨 Custom UI Styling: Built with custom CSS for a sleek, high-contrast dark mode that makes the data pop.
+
 ---
+
 ## 👨‍💻 Author
-Data Analytics Intern
-Unified Mentor 
-#Krishiv Kage
-rotarykrio@gmail.com
+Data Analytics Intern\
+Unified Mentor\
+# Krishiv Kage\
+rotarykrio@gmail.com\
 
 ---
 
