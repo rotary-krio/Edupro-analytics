@@ -43,10 +43,11 @@ Data Visualization: Plotly Express
 ---
 
 ## 👨‍💻 Author
-Data Analytics Intern\
-Unified Mentor\
-# Krishiv Kage\
+
+Krishiv Kage\
 rotarykrio@gmail.com\
+Data Analytics Intern\
+Unified Mentor
 
 ---
 
