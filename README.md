@@ -10,6 +10,9 @@ This dashboard transforms raw CSV data into actionable insights, helping stakeho
 ### Google Docs:https://drive.google.com/drive/folders/1DvGgyeEIGqeX4JNbmeIzzl6PJ3wo8W0H?usp=drive_link
 
 ---
+## 💻Live Dashboard
+
+### Streamlit link :https://edupro-analytics-lpomcs3kemmfxgcmf259jx.streamlit.app/
 
 ## 📸 Features at a Glance
 
