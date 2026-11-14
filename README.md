@@ -28,17 +28,17 @@ Data Manipulation: Pandas
 Data Visualization: Plotly Express
 
 ---
-# ⚡ Zero-Setup Data Loading: Automatically detects and merges multiple CSV datasets on startup—no manual uploads required!
+### ⚡ Zero-Setup Data Loading: Automatically detects and merges multiple CSV datasets on startup—no manual uploads required!
 
-# 🎛️ Global Dynamic Filtering: An interactive sidebar allows users to filter the entire dashboard by Age Group, Gender, Course Category, and Skill Level in real-time.
+### 🎛️ Global Dynamic Filtering: An interactive sidebar allows users to filter the entire dashboard by Age Group, Gender, Course Category, and Skill Level in real-time.
 
-# 📈 5 Comprehensive Modules: Dive deep into Overview, Demographics, Course Analysis, Preferences, and Behavioral Insights.
+### 📈 5 Comprehensive Modules: Dive deep into Overview, Demographics, Course Analysis, Preferences, and Behavioral Insights.
 
-# 🔥 Advanced Heatmap Analysis: Visually uncover hidden preferences, such as which age groups flock to which specific course categories.
+### 🔥 Advanced Heatmap Analysis: Visually uncover hidden preferences, such as which age groups flock to which specific course categories.
 
-# 👑 Power User Identification: Tracks enrollment concentration to reveal how the top 10% of learners drive platform engagement.
+### 👑 Power User Identification: Tracks enrollment concentration to reveal how the top 10% of learners drive platform engagement.
 
-# 🎨 Custom UI Styling: Built with custom CSS for a sleek, high-contrast dark mode that makes the data pop.
+### 🎨 Custom UI Styling: Built with custom CSS for a sleek, high-contrast dark mode that makes the data pop.
 ---
 ## 👨‍💻 Author
 Data Analytics Intern
