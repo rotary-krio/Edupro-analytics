@@ -1,4 +1,4 @@
-#🎓 EduPro Learner Analytics Dashboard
+# 🎓 EduPro Learner Analytics Dashboard
 
 A dynamic, interactive web application built with **Streamlit** and **Plotly** to analyze learner demographics, course enrollments, and behavioral patterns on the EduPro online learning platform.
 
