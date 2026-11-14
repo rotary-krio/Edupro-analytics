@@ -5,6 +5,10 @@ A dynamic, interactive web application built with **Streamlit** and **Plotly** t
 This dashboard transforms raw CSV data into actionable insights, helping stakeholders make data-driven decisions regarding curriculum design, targeted marketing, and platform growth.
 
 ---
+# 🔍 Research Paper
+# Google Docs:https://drive.google.com/drive/folders/1DvGgyeEIGqeX4JNbmeIzzl6PJ3wo8W0H?usp=drive_link
+
+---
 
 ## 📸 Features at a Glance
 
